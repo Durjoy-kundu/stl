@@ -9,7 +9,7 @@ pq.push(2);
 pq.push(8);
 pq.push(10); // 10,8,5,2
 
-cout<<pq.top()<<endl; // print 10
+cout<<pq.top() <<endl; // print 10
 
 
 
